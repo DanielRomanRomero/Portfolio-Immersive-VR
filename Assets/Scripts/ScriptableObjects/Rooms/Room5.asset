@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defe33773b5eb7940bc6a8d2eb9bd48f, type: 3}
+  m_Name: Room5
+  m_EditorClassIdentifier: 
+  room: 5
+  sounds:
+  - clip: {fileID: 8300000, guid: bbe09084586523a408644c70e2d3237d, type: 3}
+    subtitles:
+    - text: 'Oh, snap. Looks like we lost control over the life support system. '
+      delay: 5
+    - text: 'Hmm. Okay. I have some good news. And some bad news for you. '
+      delay: 6.4
+    - text: 'The good news are that you can activate the emergency power generator '
+      delay: 6
+    - text: 'and get out of here.  The bad news? We just ran out of oxygen. '
+      delay: 4
+    - text: 'My bad. And now? We have five minutes left. '
+      delay: 6
+    - text: 'And then? Well, you''re dead. '
+      delay: 2
+    - text: 'And you know I hate paperwork, so it would be awesome if you can activate '
+      delay: 6
+    - text: the emergency power generator.
+      delay: 2
+    - text: 'To calm yourself down, here''s a timer for you. '
+      delay: 2.5
+    - text: 'And you better start exploring this room. '
+      delay: 4.2
+  - clip: {fileID: 8300000, guid: ed829e8387ba32b4d91bc77de4ff4ea1, type: 3}
+    subtitles:
+    - text: 'One of the main rules is... just...don''t die. '
+      delay: 4.2
+    - text: 'Well, if you die is not good for company and '
+      delay: 3
+    - text: 'I have to do a lot of paperwork. '
+      delay: 2
+    - text: And I hate paperwork. So, please just don't die.
+      delay: 5
+  - clip: {fileID: 8300000, guid: cfad9dd5d8d5fc84e8e3d78613a9192d, type: 3}
+    subtitles:
+    - text: 'Great, you did it! You''ve survived! '
+      delay: 2.6
+    - text: Now, just step on the elevator and I'll show you something very very
+        cool.
+      delay: 5.4
+  - clip: {fileID: 8300000, guid: 025ece3955431d844b55e495aa2c7d1d, type: 3}
+    subtitles:
+    - text: 'Alright! To put an end to all this madness '
+      delay: 3.6
+    - text: "\u2014 and as a reward for completing it \u2014 I'll tell you the truth...\r\n"
+      delay: 4.4
+    - text: 'You hit your head and this is all just a dream.
+
+'
+      delay: 3
+    - text: 'Back in the real world, you should record a video of this and post it
+        on LinkedIn...
+
+'
+      delay: 6
+    - text: 'With a bit of luck, it might catch someone''s attention and land you
+        a job...
+
+'
+      delay: 4.8
+    - text: "\rSo... open your eyes."
+      delay: 3

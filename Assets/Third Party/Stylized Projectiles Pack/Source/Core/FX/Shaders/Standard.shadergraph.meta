@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1d5c53522d27da94395e957b154b9798
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307349
+  packageName: Stylized Projectiles Pack
+  packageVersion: 1.1.0
+  assetPath: Assets/Stylized Projectiles Pack/Source/Core/FX/Shaders/Standard.shadergraph
+  uploadId: 726970

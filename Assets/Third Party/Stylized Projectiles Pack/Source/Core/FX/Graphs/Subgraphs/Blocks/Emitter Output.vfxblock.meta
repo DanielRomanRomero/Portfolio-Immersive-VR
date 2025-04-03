@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a04ac8c464630744e9be105b4dac7c2e
+VisualEffectImporter:
+  externalObjects: {}
+  serializedVersion: 1
+  template:
+    name: 
+    category: 
+    description: 
+    icon: {instanceID: 0}
+    thumbnail: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307349
+  packageName: Stylized Projectiles Pack
+  packageVersion: 1.1.0
+  assetPath: Assets/Stylized Projectiles Pack/Source/Core/FX/Graphs/Subgraphs/Blocks/Emitter
+    Output.vfxblock
+  uploadId: 726970

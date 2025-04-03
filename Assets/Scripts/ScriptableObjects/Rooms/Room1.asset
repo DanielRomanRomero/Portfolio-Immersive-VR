@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defe33773b5eb7940bc6a8d2eb9bd48f, type: 3}
+  m_Name: Room1
+  m_EditorClassIdentifier: 
+  room: 1
+  sounds:
+  - clip: {fileID: 8300000, guid: 2f8806c9aa2e19642ae2ff2b87df2900, type: 3}
+    subtitles:
+    - text: 'Just step on the escalator '
+      delay: 2
+    - text: and I will take you out for a ride.
+      delay: 3
+  - clip: {fileID: 8300000, guid: 3f14ff5da7629464390d066b2f0694eb, type: 3}
+    subtitles:
+    - text: You know, this is a very dangerous place
+      delay: 3
+    - text: 'so don''t forget to put on your safety gloves. '
+      delay: 2.8
+    - text: And maybe they can help you somehow.
+      delay: 3.5
+  - clip: {fileID: 8300000, guid: a2824cfac3563a046b2cd25ddb60bc38, type: 3}
+    subtitles:
+    - text: 'Don''t be afraid, it''s gonna be fun, fun, fun! '
+      delay: 4
+    - text: 'You know, we''ve did a lot of research '
+      delay: 2.5
+    - text: 'and finally found a way to bend space and time. '
+      delay: 4
+    - text: You can just go and teleport yourself
+      delay: 2.4
+    - text: 'and you maybe experience some side effects. '
+      delay: 3
+    - text: But that's okay, that's no problem... please don't sue us.
+      delay: 5

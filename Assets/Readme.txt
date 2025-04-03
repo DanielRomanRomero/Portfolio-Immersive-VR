@@ -1,0 +1,1 @@
+Check the README.md in the root folder of the project for game information, structure, and credits.

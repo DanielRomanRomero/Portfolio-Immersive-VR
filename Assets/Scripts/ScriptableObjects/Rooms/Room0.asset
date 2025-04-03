@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defe33773b5eb7940bc6a8d2eb9bd48f, type: 3}
+  m_Name: Room0
+  m_EditorClassIdentifier: 
+  room: 0
+  sounds:
+  - clip: {fileID: 8300000, guid: ef7292044fc20664e8ea629ba375ab49, type: 3}
+    subtitles:
+    - text: Oh, welcome. You're finally awake.
+      delay: 4
+    - text: 'You seem to be the new engineer here. '
+      delay: 3
+    - text: 'We might have some little problem with some power supplies. '
+      delay: 4.4
+    - text: 'So, can you solve this, please? '
+      delay: 2.8
+    - text: ' Feel free to press one of the bottoms'
+      delay: 3
+  - clip: {fileID: 8300000, guid: 3fa1b6941b18bef4da0a19da937f49cd, type: 3}
+    subtitles:
+    - text: Congratulations! Feel free to step forward...
+      delay: 4.4
+    - text: ...and I will take care of you from now on.
+      delay: 2.4

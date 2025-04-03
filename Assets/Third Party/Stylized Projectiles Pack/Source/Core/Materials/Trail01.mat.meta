@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 532ea45210473d2439a9edb091755ebc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307349
+  packageName: Stylized Projectiles Pack
+  packageVersion: 1.1.0
+  assetPath: Assets/Stylized Projectiles Pack/Source/Core/Materials/Trail01.mat
+  uploadId: 726970

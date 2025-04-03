@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 487955f7ce9a1cc45a38a30a30c43142
+VisualEffectImporter:
+  externalObjects: {}
+  serializedVersion: 1
+  template:
+    name: 
+    category: 
+    description: 
+    icon: {instanceID: 0}
+    thumbnail: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307349
+  packageName: Stylized Projectiles Pack
+  packageVersion: 1.1.0
+  assetPath: Assets/Stylized Projectiles Pack/Source/Core/FX/Graphs/Subgraphs/Operators/Linear
+    Over Life.vfxoperator
+  uploadId: 726970

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defe33773b5eb7940bc6a8d2eb9bd48f, type: 3}
+  m_Name: Room4
+  m_EditorClassIdentifier: 
+  room: 4
+  sounds:
+  - clip: {fileID: 8300000, guid: d8611a622bd39cb4eb9add918e141aeb, type: 3}
+    subtitles:
+    - text: 'I don''t quite remember what you''re supposed to do in this room... '
+      delay: 3.2
+    - text: you'll have to investigate a little on your own
+      delay: 3
+  - clip: {fileID: 8300000, guid: d02b02fb855e92147897649a152da961, type: 3}
+    subtitles:
+    - text: 'Ah... that''s what it was... Ok, now keep moving! '
+      delay: 4.5
+    - text: Or... teleporting... or whatever it is you do...
+      delay: 5

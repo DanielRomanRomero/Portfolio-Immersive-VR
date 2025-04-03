@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f7c20f2f9be7d414ea728bdb2539869b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307349
+  packageName: Stylized Projectiles Pack
+  packageVersion: 1.1.0
+  assetPath: Assets/Stylized Projectiles Pack/Source/Scripts/Helper/RotateForGravityTarget.cs
+  uploadId: 726970
