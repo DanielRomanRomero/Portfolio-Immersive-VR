@@ -69,7 +69,7 @@ Make sure your layers match this setup:
 
 ### Physics Layer Collision Matrix
 Set your physics matrix like this:
-![Physics Matrix](Docs/Layer Collision Matrix.PNG)
+![Physics Matrix](Docs/LayerCollisionMatrix.PNG)
 
 ## 🎮 Key Gameplay Features
 
