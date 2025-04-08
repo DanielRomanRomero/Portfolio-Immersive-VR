@@ -65,11 +65,11 @@ Anyway, it can be modified easily to be handled directly by the State classes th
 
 ### Layer Configuration
 Make sure your layers match this setup:
-![Layer Setup](Docs/Layers.png)
+![Layer Setup](Docs/Layers.PNG)
 
 ### Physics Layer Collision Matrix
 Set your physics matrix like this:
-![Physics Matrix](Docs/Layer Collision Matrix.png)
+![Physics Matrix](Docs/Layer Collision Matrix.PNG)
 
 ## 🎮 Key Gameplay Features
 
